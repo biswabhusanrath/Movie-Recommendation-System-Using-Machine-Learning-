@@ -1,2 +1,2 @@
-# My-Data-Science-Projects
+# Movie Recommender System
 Content Based Movie Recommender System
